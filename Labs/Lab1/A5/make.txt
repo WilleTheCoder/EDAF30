@@ -1,0 +1,11 @@
+C:\WilleTheCoder\c++\Labs EDAF30\Lab 1\A5>mingw32-make
+g++ -c test_editor.cc -std=c++11
+g++ -c editor.cc -std=c++11
+g++ -o test_editor test_editor.o editor.o
+
+C:\WilleTheCoder\c++\Labs EDAF30\Lab 1\A5>mingw32-make
+g++ -o test_editor test_editor.o editor.o
+
+
+
+checks timestamps, if file has been changed or doesnt exist it will run and create objectfiles etc

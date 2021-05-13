@@ -1,0 +1,16 @@
+
+mingw32-make->
+makefile gav error rad 12: no return 
+la till:
+return res;
+Annars inga errors
+
+mingw32-make -f Makefile.sanitizers
+
+
+mingw32-make -f Makefile.sanitizers
+g++ -std=c++11 -I. -O0 -Wall -Wextra -pedantic-errors -Wold-style-cast -std=c++11 -g -g -fsanitize=undefined -o ub ub.cc
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot find -lubsan
+collect2.exe: error: ld returned 1 exit status
+Makefile.sanitizers:42: recipe for target 'ub' failed
+mingw32-make: *** [ub] Error 1

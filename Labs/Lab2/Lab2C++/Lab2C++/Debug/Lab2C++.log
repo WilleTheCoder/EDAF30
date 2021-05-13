@@ -1,0 +1,8 @@
+﻿  spell.cc
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\..\WilleTheCoder\c++\Labs EDAF30\Lab2\spell.cc': No such file or directory
+  dictionary.cc
+C:\Users\wille\source\repos\Lab2C++\Lab2C++\dictionary.cc(46,21): error C3861: 'trye': identifier not found
+C:\Users\wille\source\repos\Lab2C++\Lab2C++\dictionary.cc(48,34): warning C4018: '<=': signed/unsigned mismatch
+  sos.cpp
+c1xx : fatal error C1083: Cannot open source file: 'sos.cpp': No such file or directory
+  Generating Code...

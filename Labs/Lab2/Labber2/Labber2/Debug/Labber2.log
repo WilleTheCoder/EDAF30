@@ -1,0 +1,4 @@
+﻿  dictionary.cc
+C:\Users\wille\source\repos\Lab2C++\Lab2C++\dictionary.cc(49,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\wille\source\repos\Lab2C++\Lab2C++\dictionary.cc(53,26): warning C4018: '>=': signed/unsigned mismatch
+  Labber2.vcxproj -> C:\Users\wille\source\repos\Labber2\Debug\Labber2.exe

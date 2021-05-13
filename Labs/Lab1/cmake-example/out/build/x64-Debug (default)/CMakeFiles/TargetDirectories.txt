@@ -1,0 +1,6 @@
+C:/WilleTheCoder/c++/Labs EDAF30/Lab 1/cmake-example/out/build/x64-Debug (default)/CMakeFiles/SimpleMain.dir
+C:/WilleTheCoder/c++/Labs EDAF30/Lab 1/cmake-example/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/WilleTheCoder/c++/Labs EDAF30/Lab 1/cmake-example/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/WilleTheCoder/c++/Labs EDAF30/Lab 1/cmake-example/out/build/x64-Debug (default)/testlib/CMakeFiles/TestLib.dir
+C:/WilleTheCoder/c++/Labs EDAF30/Lab 1/cmake-example/out/build/x64-Debug (default)/testlib/CMakeFiles/edit_cache.dir
+C:/WilleTheCoder/c++/Labs EDAF30/Lab 1/cmake-example/out/build/x64-Debug (default)/testlib/CMakeFiles/rebuild_cache.dir

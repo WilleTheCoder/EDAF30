@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sanitizers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bounds::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bounds-Debug-0cb11315feb2f0ca35ba.json",
+					"name" : "bounds",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bounds-heap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bounds-heap-Debug-f93f1f5be6629f126223.json",
+					"name" : "bounds-heap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dangling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dangling-Debug-57727bbfa21c59fdd246.json",
+					"name" : "dangling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leak::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leak-Debug-2814d991f459203f094d.json",
+					"name" : "leak",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sum-Debug-554ed066e7d401dd443a.json",
+					"name" : "sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sum_alt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sum_alt-Debug-2ec45fce198c6a581d76.json",
+					"name" : "sum_alt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ub::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ub-Debug-60cafb4bc4e06ed1dfa5.json",
+					"name" : "ub",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/WilleTheCoder/c++/Labs EDAF30/Lab 1/buggy_programs/out/build/x64-Debug (default)",
+		"source" : "C:/WilleTheCoder/c++/Labs EDAF30/Lab 1/buggy_programs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
